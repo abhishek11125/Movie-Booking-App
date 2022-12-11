@@ -1,0 +1,19 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#add-money{
+    margin: 60px auto;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+#add-money>input{
+    margin: 10px;
+    padding: 10px;
+
+}
+#add-money>button{
+    margin: 10px;
+    padding: 10px;
+}
